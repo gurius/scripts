@@ -5,12 +5,12 @@ mac-convert scripts
 
 $ ls
 
-install_scripts.sh  scripts
+install_scripts.sh  README.md  scripts
 
 $ . install_scripts.sh
 
 Он создает в домашней директории каталог scripts и копирует в него содержимое загруженного каталога scripts
 (по сути - просое копирование)
 
-и создает алиас на скрипты из созданного каталога.
+а также создает алиас на скрипты из созданного каталога.
 
